@@ -1,0 +1,37 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="rTDzaooWS2JdQqiiu6Lo">
+    <mxGraphModel dx="464" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-3" edge="1" parent="1" source="U_flMebZRFNsAOWx8Vdr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" target="U_flMebZRFNsAOWx8Vdr-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kali Linux VM (192.168.56.101)" vertex="1">
+          <mxGeometry height="60" width="230" x="310.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-5" edge="1" parent="1" source="U_flMebZRFNsAOWx8Vdr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="U_flMebZRFNsAOWx8Vdr-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Host - Only Network" vertex="1">
+          <mxGeometry height="60" width="140" x="355" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-7" edge="1" parent="1" source="U_flMebZRFNsAOWx8Vdr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="U_flMebZRFNsAOWx8Vdr-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Windows 11 VM (192.168.56.102)" vertex="1">
+          <mxGeometry height="60" width="237" x="307" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-9" edge="1" parent="1" source="U_flMebZRFNsAOWx8Vdr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="U_flMebZRFNsAOWx8Vdr-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Sysmon" vertex="1">
+          <mxGeometry height="60" width="120" x="365.5" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="U_flMebZRFNsAOWx8Vdr-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Event Viewer" vertex="1">
+          <mxGeometry height="60" width="120" x="365.5" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
