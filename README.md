@@ -90,4 +90,4 @@ Possible future improvements for this lab include:
 - creating dashboards for easier monitoring
 
 ## Screenshots
-See the `Lab-Screenshots/` folder for evidence of the lab setup, Sysmon installation, Event Viewer logs, and Nmap scan results.
+See the `screenshots/` folder for evidence of the lab setup, Sysmon installation, Event Viewer logs, and Nmap scan results.
