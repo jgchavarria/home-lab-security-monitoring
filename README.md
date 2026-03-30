@@ -7,7 +7,7 @@ This project is a beginner cybersecurity home lab built in VirtualBox using a Wi
 The objective of this project was to simulate basic network activity in a controlled lab environment and observe security-related logs on the Windows target machine. This helped demonstrate foundational blue team skills such as system monitoring, log review, and identifying network activity.
 
 ## Lab Diagram
-![Lab Diagram](diagrams/home-lab-security-monitoring-diagram.png)
+![Lab Diagram](diagrams/home-lab-security-monitoring-diagram.drawio.png)
 
 ## Tools Used
 - VirtualBox
